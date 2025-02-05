@@ -23,10 +23,9 @@ This C program calculates the minor and cofactor of a given element in a square 
 
 ## Compilation and Execution
 To compile and run the program, use the following commands:
-```sh
-gcc minor_cofactor.c -o minor_cofactor
-./minor_cofactor
-```
+-**Step-1**: Clone the repository
+-**Step-2**: Open with VsCode or other IDEs
+-**Step-3**: Then run the code
 
 ## Example Usage
 ```
