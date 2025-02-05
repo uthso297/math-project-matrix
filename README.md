@@ -22,7 +22,6 @@ This C program calculates the minor and cofactor of a given element in a square 
 - **Standard Input/Output (stdio.h)**: User input handling and output display.
 
 ## Compilation and Execution
-To compile and run the program, use the following commands:
 -**Step-1**: Clone the repository
 -**Step-2**: Open with VsCode or other IDEs
 -**Step-3**: Then run the code
